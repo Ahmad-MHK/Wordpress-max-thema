@@ -1,0 +1,13 @@
+[03-Sep-2025 09:55:38 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\ahmad\Local Sites\wordpress-max\app\public\wp-includes\class-wp-customize-widgets.php on line 926
+[10-Sep-2025 10:33:22 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\ahmad\Local Sites\wordpress-max\app\public\wp-includes\class-wp-customize-widgets.php on line 926
+[10-Sep-2025 10:49:02 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\ahmad\Local Sites\wordpress-max\app\public\wp-includes\class-wp-customize-widgets.php on line 926
+[10-Sep-2025 10:50:15 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\ahmad\Local Sites\wordpress-max\app\public\wp-includes\class-wp-customize-widgets.php on line 926
+[10-Sep-2025 10:59:38 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\ahmad\Local Sites\wordpress-max\app\public\wp-includes\class-wp-customize-widgets.php on line 926
+[17-Sep-2025 09:46:58 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\ahmad\Local Sites\wordpress-max\app\public\wp-content\themes\ahmadtheme-wp-loop\functions.php on line 56
+[17-Sep-2025 09:46:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\ahmad\Local Sites\wordpress-max\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[17-Sep-2025 09:46:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\ahmad\Local Sites\wordpress-max\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[17-Sep-2025 09:46:58 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\ahmad\Local Sites\wordpress-max\app\public\wp-content\themes\ahmadtheme-wp-loop\functions.php on line 56
+[24-Sep-2025 10:48:51 UTC] PHP Parse error:  Unmatched '}' in C:\Users\ahmad\Local Sites\wordpress-max\app\public\wp-content\themes\ahmadtheme-wp-loop\functions.php on line 61
+[24-Sep-2025 10:48:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\ahmad\Local Sites\wordpress-max\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[24-Sep-2025 10:48:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\ahmad\Local Sites\wordpress-max\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[24-Sep-2025 11:13:51 UTC] PHP Parse error:  Unmatched '}' in C:\Users\ahmad\Local Sites\wordpress-max\app\public\wp-content\themes\ahmadtheme-wp-loop\functions.php on line 67
